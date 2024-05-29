@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
+        <mxGraphModel dx="846" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" width="420" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Calculating Pi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="7" vertex="1">
+                    <mxGeometry x="55" y="30" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Calculating the value of pi (π)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="50" y="210" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Number.....&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="35" y="280" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="45" y="370" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="The value of π is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="30" y="400" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div&gt;Please enter a positive whole number:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="7">
+                    <mxGeometry x="35" y="240" width="230" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDM4MS44NyAzMzguNDgiIGlkPSJzdmczMDQ5Ij4KICA8dGl0bGUgaWQ9InRpdGxlMzA2NiI+bWF0aCBwaSBzeW1ib2w8L3RpdGxlPgogIAogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNjQuOTIgLTE1OS44MSkiIGlkPSJsYXllcjEiPgogICAgPHBhdGggZD0ibTI4Ni45NSAyMDAuMjRjLTE1Ljk4NyA4My42OTEtMTAuMjA2IDE0OC4zMy03Mi4yNjcgMjU3LjE1LTE2LjAyOCA0MC4zNDQgMzAuNTUgNTUuNDc3IDQ5LjYyIDI0LjA3NyAyMy40NS00OS4xNjIgMzcuMDgzLTE1MC4wOCA0NC45NS0yODEuNDFoMTAxLjU0bC0xMy45NyAyMTkuMDdjLTIuNDk4OCAxMTYuNjUgMTE5LjQ5IDk1LjQ4MSAxNDguODgtMTMuMDloLTkuNDI4OWMtNTcuMDkgMTA4LjQzLTExMC4wOCA0Ni44OS0xMDQuNDYtMzUuMTdsMTIuMzQ5LTE3MC4wOCAxMDIuNjMtMS40NTEzdi0zOS41MjloLTI1Mi43N2MtNjYuNzk5IDIuMzY3NS04NC4yNjQgNy43MDc4LTEwMS4zNyA0MC4zMjlsLTI3LjczIDUzLjU5NyA5LjQyODkgMC43MjU2N2MyMC4xNjItMzYuOTgyIDQwLjY2OC01NS4xNSA3Ni43OTktNTUuMTV6IiBzdHlsZT0iZmlsbDojMDAwMDAwIiBpZD0icGF0aDE1ODIzIi8+CiAgPC9nPgogIDxtZXRhZGF0YSBpZD0ibWV0YWRhdGE3Ij4KICAgIAogICAgICAKICAgICAgICBpbWFnZS9zdmcreG1sCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgICAgT3BlbmNsaXBhcnQKICAgICAgICAgIAogICAgICAgIAogICAgICAKICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgIAogICAgCiAgPC9tZXRhZGF0YT4KPC9zdmc+;" vertex="1" parent="7">
+                    <mxGeometry x="66.54" y="80" width="124.32" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
